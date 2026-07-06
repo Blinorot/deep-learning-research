@@ -1,65 +1,21 @@
 ![logo](assets/logo.png)
 
-# Deep Learning Research
+# Deep Learning Summer
 
-The course covers introductory and advanced deep learning techniques with a research-oriented focus.
-
-- Lecture and seminar materials for each week are in `./week*` folders, see `README.md` for materials and instructions
-- Any technical issues, ideas, bugs in course materials, contribution ideas - add an issue
-- The current version of the course is conducted in **Spring 2026** at the [CS Faculty](https://cs.hse.ru/en/) of [HSE](https://www.hse.ru/en/).
+This is a intensive summer edition of the Deep Learning Course conducted at the [CS Faculty](https://cs.hse.ru/en/) of [HSE](https://www.hse.ru/en/).
 
 # Syllabus
 
-- [**week01**](./week01) Introduction to Course. Deep Learning Basics
-  - Lecture: Introduction to Course and Deep Learning
+- [**day01**](./day01) Introduction to Mini-Course. Deep Learning Basics
+  - Lecture: Introduction to Mini-Course and Deep Learning
   - Seminar: Introduction to `pytorch`
-- [**week02**](./week02) FC, CNN, and ResNet
-  - Lecture: Fully-Connected Layers, Convolution, ResNet, Fine-Tuning
-  - Seminar: Creating and training models in `pytorch`
-- [**week03**](./week03) RNN, Normalization, and Dropout
-  - Lecture: RNN (+LSTM, GRU), BatchNorm/LayerNorm/Dropout
-  - Seminar: Implementation of `SketchRNN`
-- [**week04**](./week04) Introduction to NLP and Transformer
-  - Lecture: NLP Basics, Tokenization, Embeddings, Transformer
-  - Seminar: Implementation of `Transformer`. `HuggingFace` basics
-- [**week05**](./week05) Large Language Models
-  - Lecture: Core techniques related to Large Language Models
-  - Seminar: `HuggingFace` basics. vLLM and OpenAI clients
-- [**week06**](./week06) Deep Learning for Audio
-  - Lecture: Tasks Overview, Signal Processing Basics, Automatic Speech Recognition
-  - Seminar: Keyword Spotting Implementation, AudioBot (ASR + LLM + TTS)
-- [**week07**](./week07) AutoEncoders
-  - Lecture: AutoEncoders, VAE, VQ-VAE, Text-To-Image, Text-To-Audio
-- [**week08**](./week08) Diffusion
-  - Lecture: Denoising Score Matching, SDE, DDPM, DiT, UNet, Image/Audio Generation
-  - Seminar: `Diffusers` basics.
-- [**week09**](./week09) Generative Adversarial Networks (GANs)
-  - Lecture: Vanilla GAN, LSGAN, WGAN, cGAN, Applications
-  - Seminar: Implementation of GAN
-- [**week10**](./week10) Explainable AI (XAI)
-  - Lecture: Intrinsic vs Post-Hoc, Classical vs Trainable Methods, Metrics and Comparison
-  - Seminar: SHAP, Grad-CAM, Transformer-XAI
-- [**week11**](./week11) Creating convenient DL pipelines and clean code
-  - Lecture: Logging, Configuration, Reproducibility, Project-style coding
-- [**week12**](./week12) Multimodal Deep Learning
-  - Lecture: Impact of Modality, Modality Fusion, Audiovisual Models, Multimodal LLMs
-- [**week13**](./week13) Physics-Informed Neural Networks and Lensless Computational Imaging
-  - Lecture: PINNs basics, Lensless Computational Imaging basics, LenslessMic (Audio)
-- [**week14**](./week14) Academic Writing, Presentations, and Talks with AI Focus
-  - Lecture: Academic Writing, How to Make Presentations and Give Talks
-- [**week15**](./week15) TinyML Basics
-  - Lecture: Architecture Modification, Pruning, Distillation, Quantization.
-  - Seminar: Libraries for Pruning and Quantization. AMP.
   <!--
   -->
 
-# Homeworks and Projects
+# Homework
 
-- [**HW_Basics**](./hw01) `PyTorch` basics, Fine-Tuning, and Ablation Studies.
-- [**HW_NLP**](./hw02) Machine Translation, Text Deepfake Detection, HuggingFace.
-- [**HW_Diffusion**](./hw03) Diffusion and Super-Resolution.
-- [**HW_NAC**](./hw04) Neural Audio Codecs.
-- [**HW_Lensless**](./hw05) Lensless Computational Imaging.
+TBA
+
 <!--
   -->
 
@@ -67,7 +23,7 @@ See our [project template](https://github.com/Blinorot/pytorch_project_template)
 
 # Resources
 
-- [Lecture recordings on YouTube (in russian)](https://youtube.com/playlist?list=PL43p_a9g8_aKsnsXPN_TfpKOBOZxHULxb)
+- [Lecture recordings on YouTube (in russian)](TBA)
 
 Some of the weeks have English recordings. See the corresponding sub-directories.
 
