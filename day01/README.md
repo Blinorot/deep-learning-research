@@ -1,4 +1,4 @@
-# Week 01
+# Day 01
 
 - [Lecture slides](https://docs.google.com/presentation/d/14EmnpOpeg_7hI009JfNXxcFtBfOnYHhS_y8Zhw7Yu7Q/edit?usp=sharing)
 - [Seminar](Seminar.ipynb)

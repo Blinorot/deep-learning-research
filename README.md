@@ -9,6 +9,9 @@ This is a intensive summer edition of the Deep Learning Course conducted at the 
 - [**day01**](./day01) Introduction to Mini-Course. Deep Learning Basics
   - Lecture: Introduction to Mini-Course and Deep Learning
   - Seminar: Introduction to `pytorch`
+- [**day02**](./day02) FC, CNN, and ResNet
+  - Lecture: Fully-Connected Layers, Convolution, ResNet, Fine-Tuning
+  - Seminar: Creating and training models in `pytorch`
   <!--
   -->
 
