@@ -12,6 +12,9 @@ This is a intensive summer edition of the Deep Learning Course conducted at the 
 - [**day02**](./day02) FC, CNN, and ResNet
   - Lecture: Fully-Connected Layers, Convolution, ResNet, Fine-Tuning
   - Seminar: Creating and training models in `pytorch`
+- [**day03**](./day03) RNN, Normalization, and Dropout
+  - Lecture: RNN (+LSTM, GRU), BatchNorm/LayerNorm/Dropout
+  - Seminar: Implementation of `SketchRNN`
   <!--
   -->
 
@@ -26,7 +29,7 @@ See our [project template](https://github.com/Blinorot/pytorch_project_template)
 
 # Resources
 
-- [Lecture recordings on YouTube (in russian)](TBA)
+- [Lecture recordings on YouTube (in russian)](https://www.youtube.com/playlist?list=PLfAARwtB8IT4)
 
 Some of the weeks have English recordings. See the corresponding sub-directories.
 
