@@ -15,6 +15,8 @@ This is a intensive summer edition of the Deep Learning Course conducted at the 
 - [**day03**](./day03) RNN, Normalization, and Dropout
   - Lecture: RNN (+LSTM, GRU), BatchNorm/LayerNorm/Dropout
   - Seminar: Implementation of `SketchRNN`
+- [**day04**](./day04) Introduction to NLP and Transformer
+  - Lecture: Tokenization, SSL-embeddings, Transformer
   <!--
   -->
 
