@@ -17,6 +17,8 @@ This is a intensive summer edition of the Deep Learning Course conducted at the 
   - Seminar: Implementation of `SketchRNN`
 - [**day04**](./day04) Introduction to NLP and Transformer
   - Lecture: Tokenization, SSL-embeddings, Transformer
+- [**day05**](./day05) Introduction to Audio Domain and Audio Deepfake Detection
+  - Lecture: Signal Processing Basics, KWS, Anti-Spoofing
   <!--
   -->
 
@@ -28,6 +30,8 @@ TBA
   -->
 
 See our [project template](https://github.com/Blinorot/pytorch_project_template).
+
+For preparation to the homework, we recommend having a look at the [self-study notebook](./self_study/SelfStudyPractice.ipynb).
 
 # Resources
 
