@@ -19,6 +19,10 @@ This is a intensive summer edition of the Deep Learning Course conducted at the 
   - Lecture: Tokenization, SSL-embeddings, Transformer
 - [**day05**](./day05) Introduction to Audio Domain and Audio Deepfake Detection
   - Lecture: Signal Processing Basics, KWS, Anti-Spoofing
+  - Seminar: `torchaudio`, Implementation of KWS, ASVSpoof
+- [**day06**](./day06) Large Language Models
+  - Lecture: Core techniques related to Large Language Models
+  - Seminar: HuggingFace basics. vLLM and OpenAI clients
   <!--
   -->
 
