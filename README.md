@@ -22,13 +22,12 @@ This is a intensive summer edition of the Deep Learning Course conducted at the 
   - Seminar: `torchaudio`, Implementation of KWS, ASVSpoof
 - [**day06**](./day06) Large Language Models
   - Lecture: Core techniques related to Large Language Models
-  - Seminar: HuggingFace basics. vLLM and OpenAI clients
   <!--
   -->
 
 # Homework
 
-TBA
+- [**HW**](./hw) Implementation of a Voice Anti-spoofing system.
 
 <!--
   -->
