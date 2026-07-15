@@ -22,6 +22,11 @@ This is a intensive summer edition of the Deep Learning Course conducted at the 
   - Seminar: `torchaudio`, Implementation of KWS, ASVSpoof
 - [**day06**](./day06) Large Language Models
   - Lecture: Core techniques related to Large Language Models
+- [**day07**](./day07) Multimodal Deep Learning
+  - Lecture: Modality Fusion, AutoEncoders, Multimodal LLMs
+- [**day08**](./day08) Explainable AI (XAI)
+  - Lecture: Intrinsic vs Post-Hoc, Classical vs Trainable Methods, Metrics and Comparison
+  - Seminar: SHAP, Grad-CAM, Transformer-XAI
   <!--
   -->
 
